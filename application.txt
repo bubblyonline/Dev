@@ -1,0 +1,4 @@
+rental management web App
+1. Add home page
+2.Add login page
+3. Admin add roo details
