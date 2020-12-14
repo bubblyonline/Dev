@@ -1,4 +1,5 @@
 rental management web App
 1. Add home page
 2.Add login page
-3. Admin add roo details
+3. Admin add room details
+4. Admin manage room details and customer
